@@ -1,0 +1,16 @@
+{
+  "orderNo": "SF-1234",
+  "orderDate": "2020-12-17",
+  "lines": [
+    {
+      "name": "T-shirt",
+      "quantity": 5,
+      "price": 15000
+    },
+    {
+      "name": "Socks",
+      "quantity": 3,
+      "price": 900
+    }
+  ]
+}
